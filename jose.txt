@@ -1,0 +1,17 @@
+git init
+
+git config -- global user.name "seu nome"
+
+git config -- global user.mail "email"
+
+crie arquivo seu nome.txt (seu dominio hostinger)
+
+git add arquivo.txt
+
+git commit -m "hospedagem seu nome"
+
+git remote add origem
+
+https://github.com/joabefuzaro/receitas.git
+
+git push -u origin master
