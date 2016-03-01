@@ -15,3 +15,5 @@ git remote add origem
 https://github.com/joabefuzaro/receitas.git
 
 git push -u origin master
+
+alterei
